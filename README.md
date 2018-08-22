@@ -10,3 +10,8 @@
 
 ## RecyclerViewUtils
 recyclerview的工具类，一行代码搞定各种设置。
+
+## Dependency
+	dependencies {
+	        implementation 'com.github.bishi2016:CommonUtils:1.0'
+	}
