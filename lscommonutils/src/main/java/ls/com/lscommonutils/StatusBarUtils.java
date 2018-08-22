@@ -1,4 +1,4 @@
-package lywin.com.union.util;
+package ls.com.lscommonutils;
 
 import android.app.Activity;
 import android.content.Context;
