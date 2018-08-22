@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/bishi2016/CommonUtils.svg)](https://jitpack.io/#bishi2016/CommonUtils)
 # CommonUtils
 
 安卓开发的一些实用的工具类
